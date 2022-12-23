@@ -1,6 +1,6 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/242/236/855/mountains-river-snow-forest-wallpaper-thumb.jpg)]()
-<h1 align="center">Hi 👋, I'm Tushar Ahmed</h1>
-<h3 align="center">A computer science student currently learning web developement</h3>
+[![MasterHead](https://github.com/tusharpatowary/tusharpatowary/blob/main/My%20github%20banner%20(2).gif)]()
+<h1 align="center"></h1>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpatowary&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpatowary" /> </p>
 
@@ -22,14 +22,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="justify">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tusharpatowary&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharpatowary&theme=radical&show_icons=true&hide_border=true)
-<br />
 [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpatowary&theme=radical&hide_border=true&layout=compact)](https://github.com/tusharpatowary/github-readme-stats)
-<br />
+
 
 
 </p>
