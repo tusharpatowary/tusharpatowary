@@ -8,7 +8,7 @@
 
 - 🌱 **front-end web developer **
 
-- 📫 How to reach me **tusharahmed.patowary@gmail.com**
+- 📫 How to reach out **tusharahmed.patowary@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
