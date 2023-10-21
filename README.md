@@ -6,7 +6,7 @@
 
 <!--- <p align="left"> <a href="https://twitter.com/tushar_patowary" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_patowary?logo=twitter&style=for-the-badge" alt="tushar_patowary" /></a> </p> -->
 
-- 🌱 **Front-End Web Developer **
+- 🌱 **Front-End Web Developer**
 
 - 📫 How to reach out **tusharahmed.patowary@gmail.com**
 
