@@ -2,10 +2,11 @@
 
 <h1 align="center"></h1>
 <h3 align="center"></h3>
+<img src="https://www.codewars.com/users/zenitsu-agatsuma/badges/large" alt="codewares profile"/>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/bXkdBzV/Website-Creator-bro.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpatowary&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpatowary" /> </p>
 <!--  <p align="left"> <a href="https://twitter.com/tushar_patowary" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_patowary?logo=twitter&style=for-the-badge" alt="tushar_patowary" /></a> </p>  -->
-<img src="https://www.codewars.com/users/zenitsu-agatsuma/badges/large" alt="codewares profile"/>
+
 - 🌱 **Front-End Web Developer**
 
 - 📫 How to reach out **tusharahmed.patowary@gmail.com**
