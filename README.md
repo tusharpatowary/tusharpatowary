@@ -1,4 +1,5 @@
 [![MasterHead](https://github.com/tusharpatowary/tusharpatowary/blob/main/My%20github%20banner%20(2).gif)]()
+<img src="https://www.codewars.com/users/zenitsu-agatsuma/badges/large" alt="codewares profile"/>
 <h1 align="center"></h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/bXkdBzV/Website-Creator-bro.png">
